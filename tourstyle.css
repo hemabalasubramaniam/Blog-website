@@ -1,0 +1,32 @@
+.tour,tr{
+    display: flex;
+    flex-shrink: 1;
+}
+tr,td{
+    margin-left: 40px;
+    column-gap: 0px;
+    padding: 0px;
+}
+img{
+    float:left;
+    object-fit: cover;
+    margin-right:110px;
+    margin-left:40px;
+
+}
+h1{
+    color: #005870;
+    font-family: serif ;
+    margin-top: 0px;
+    font-size: 25px;
+}
+
+p{
+    font-size: 22px;
+    margin-left: 0px;
+    text-align: left;
+    display: inline;
+}
+body{
+    background-color: #ecebfb;
+}
